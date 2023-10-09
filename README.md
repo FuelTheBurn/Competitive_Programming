@@ -1,2 +1,2 @@
 # Competitive_Programming
-Editorials and notes on my journey to 2000 rating on codeforces
+Editorials for problems missing them and notes on my journey to 2000 rating on Codeforces
